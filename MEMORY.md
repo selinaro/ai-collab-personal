@@ -5,6 +5,7 @@ audience=personal, scope=universal. Selina's cross-project personal memory; reac
 ## Topics
 
 - [work-style/git-workflow.md](_topics/work-style/git-workflow.md) — How Selina handles git: the agent runs `push`/`pull` directly (no Sourcetree). **Load when committing or syncing any ai-collab / project repo on Selina's machine.**
+- [work-style/message-drafts.md](_topics/work-style/message-drafts.md) — Drafted messages speak as "ich" (Selina works alone), never "wir"; clarifications go to the senior contact, not junior devs. **Load when drafting any message in Selina's name.**
 
 ---
 
