@@ -16,6 +16,10 @@ paths). Read in this order:
 2. `edorex-relaunch-konzept.md` — strategy & Leitidee: positioning ("Nahbarkeit, Wissen, Kompetenz, Sympathie"), 7 Konzeptbausteine, page findings, Weekly strategy, idea pool.
 3. `edorex-seitentypen.md` — page-type playbook: goals + Stärke/Schwäche/Lösungsansatz tables per page type.
 
+## Topics
+
+- [feedbacks/2026-07-13-wissensbasis-aktiv-anwenden.md](_topics/feedbacks/2026-07-13-wissensbasis-aktiv-anwenden.md) — Selinas Dokumente sind Arbeitsraster, nicht Archiv: dokumentierte Befunde/Raster (z.B. Teaser-Bild-Kategorien) bei jedem passenden Thema aktiv heranziehen und referenzieren. **Load at session start; apply in every review/audit.**
+
 ## Rules of engagement (distilled from the context doc)
 
 - Vorsicht und Konstruktivität vor Tempo; einsickern lassen statt Manifest.
