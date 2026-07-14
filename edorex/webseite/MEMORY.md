@@ -28,6 +28,17 @@ paths). Read in this order:
 - Sensible Themen neutral halten (Kira-Status, KI-Team-Auflösung).
 - Aufwandsarme Lösungen; Belegbarkeit vor Behauptung; Anrede Du still mitprüfen.
 - Bei Unsicherheit: fragen, nicht annehmen.
+- **Arbeitsteilung Dokumente:** private Wissensbasis (konzept/seitentypen — wertend, mit Urteilen) vs. team-öffentliche Artefakte (Confluence — neutral, keine Wertungen wie «KI-generiert»/«fahrlässig»; Massstab & Priorisierung aber transparent kommunizieren, «in nett»).
+- **Entwurfs-Workflow:** Selina passt Claude-Entwürfe selbst im Quelltext an → danach Datei neu einlesen, ihre Änderungen als Formulierungspräferenzen lernen; Tippfehler sammeln und erst nach ihrem OK korrigieren. Achtung: ihr Editor hinterlässt NBSP-Zeichen (Edit-Tool scheitert dann — erst normalisieren).
+
+## Status (2026-07-13)
+
+Referenzen-Bilder komplett auditiert (18 Detailseiten + 18 Teaser; Befunde in
+`edorex-seitentypen.md` Kap. 2+3). Confluence-Entwurf «Bildfreigaben Referenzen»
+fertig, wartet auf Übertrag durch Selina. Offen: 4 Confluence-Ergänzungen
+(BEKB/KABLAN/ASTAG/COBE-SKI — Rückfrage an Selina noch unbeantwortet),
+Freigabe-Abarbeitung via Olivia, Live-Abgleich Startseite + Referenzen-Übersicht.
+Leitidee ist dem Team kommuniziert (Nachtrag in konzept Kap. 6).
 
 ---
 
