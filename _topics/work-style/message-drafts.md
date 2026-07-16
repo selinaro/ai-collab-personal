@@ -18,5 +18,5 @@ Polypoint) used "wir" throughout.
   speaks for a group.
 - Related: route clarification questions to the responsible senior contact (e.g.
   Karin at Polypoint) rather than to junior developers — phrase developer-facing
-  communication as finished, appreciative specs, not open questions (Denni incident,
+  communication as finished, appreciative specs, not open questions (Denny incident,
   2026-07-09).
