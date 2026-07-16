@@ -11,10 +11,6 @@ audience=personal, scope=universal. Selina's cross-project personal memory; reac
 
 - [edorex/webseite/](edorex/webseite/) — Selina's private work on the Edorex website relaunch (confidential — personal audience only). See `edorex/webseite/MEMORY.md`.
 
-## Pending
-
-- **To do (next session, any project):** add `.DS_Store` to `.gitignore` in `ai-collab-personal` (and check `ai-collab-team-synergies`) — same rule as already added to `ai-collab-edorex` on 2026-07-09. Remove this line when done.
-
 ---
 
 Scaffolded 2026-06-29 during the Polypoint/PEP ai-collab install. First cell at this scope.
