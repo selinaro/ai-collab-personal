@@ -7,6 +7,7 @@ audience=personal, scope=universal. Selina's cross-project personal memory; reac
 - [work-style/git-workflow.md](_topics/work-style/git-workflow.md) — How Selina handles git: the agent runs `push`/`pull` directly (no Sourcetree). **Load when committing or syncing any ai-collab / project repo on Selina's machine.**
 - [work-style/message-drafts.md](_topics/work-style/message-drafts.md) — Drafted messages speak as "ich" (Selina works alone), never "wir"; clarifications go to the senior contact, not junior devs. **Load when drafting any message in Selina's name.**
 - [work-style/chat-formatting.md](_topics/work-style/chat-formatting.md) — Aufzählungen im Chat immer als echte Listen (ein Punkt pro Zeile), nie ①–③ im Fliesstext oder mit «·» verbunden. **Gilt für jede Antwort mit Findings/Optionen.**
+- [work-style/vorschlaege-im-story-scope.md](_topics/work-style/vorschlaege-im-story-scope.md) — Design-/UI-Vorschläge bleiben im Scope der Story und respektieren die Semantik des Elements (Gerät-Spalte ≠ Typ-Spalte). **Load vor jedem Vorschlag zu einer bestehenden Story oder einem bestehenden UI-Element.**
 - [work-style/session-close-reporting.md](_topics/work-style/session-close-reporting.md) — Session-Close-Antwort: «Gemerkt» als Liste + stichwortartige Tagesrapport-Zusammenfassung (DE) der erledigten Arbeit. **Load bei jedem Session-Close.**
 
 ## Scope sub-tree
