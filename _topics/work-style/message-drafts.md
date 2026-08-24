@@ -45,3 +45,57 @@ durch Argumente, aber das ist ihre Entscheidung, nicht die Vorlage.
 - Selinas Originalfassung vom 18.8. (Read-only vs. Disabled) als Tonvorlage:
   Hinweis benennen → «Das ist meines Erachtens nicht anders zu lösen» → Begründung
   aus Nutzersicht → gerichtete Frage → Festlegung fürs System.
+
+
+## Nicht vorgreifen, wenn Projektleitung/Sales mitliest (2026-08-24)
+
+**Konsequenzen einer noch ungeklärten Frage — zusätzliche Story, Mehraufwand,
+Terminverschiebung — werden nicht angekündigt, bevor Selina sich mit der zuständigen
+Person abgestimmt hat.** In Kanälen mit Projektleitung, Sales oder Kunden steht der
+Status und der nächste Schritt; die möglichen Folgen bleiben draussen, bis sie
+belastbar sind.
+
+**Why:** Selina, 2026-08-24, zu einem Entwurf für #vesense-intern (rund 10 Personen,
+darunter PM, Sales, Security): «Dass eine neue Story hinzukommt, möchte ich Pascal
+nicht vorgreifen. Sonst mache ich die PM nervös, bevor ich mich mit Pascal
+ausgetauscht habe. Das kann mir im blödsten Fall schaden (Reputation).» Ein
+vorschnell in den Raum gestellter Mehraufwand, der sich später auflöst, kostet
+Glaubwürdigkeit — und nimmt der zuständigen Person die Deutungshoheit über ihren
+eigenen Bereich.
+
+**How to apply:**
+- Vor jeder Aufwand-/Umfang-/Termin-Aussage prüfen: Ist das abgestimmt, oder ist es
+  meine Ableitung? Wenn Ableitung → raus aus der breiten Runde.
+- Im breiten Kanal: was offen ist, mit wem es geklärt wird, bis wann, und was Selina
+  bis dahin tut oder bewusst liegen lässt.
+- Gegenüber der **zuständigen Person direkt** (hier Pascal) ist die volle Ableitung
+  richtig und erwünscht — inklusive «müssten wir dann als neue Story aufnehmen».
+- Vgl. die Kanal-Regel im VeSense-Projekt: interne Klärung via #vesense-intern, in
+  Jira nur das Ergebnis (Markus/Sigi lesen mit).
+
+## Ton-Vorlage aus Selinas eigenen Nachrichten (2026-08-24)
+
+Zwei Originale desselben Tages, als Referenz für künftige Entwürfe:
+
+**Breiter Kanal (#vesense-intern, ~10 Personen) — knapp, Status + nächster Schritt:**
+> «Kurzer Status: Bei den Test-Alarm-Storys (VES-469 / VES-470) sind noch Fragen offen
+> betreffend der Alarmierung wenn ein Test-Alarm nicht ankommt (inkl. der
+> Funktionalität vom Benachrichtigungsprofil). @pabu ist ja diese Woche weg. Ich kläre
+> es nächste Woche mit ihm. Bis dahin werde ich an dieser Story in Figma nicht weiter
+> arbeiten.»
+
+Merkmale: «Kurzer Status:» als Einstieg · ein Satz zur offenen Frage · direkte
+@-Ansprache der zuständigen Person · was sie selbst bis dahin tut bzw. **nicht** tut
+· keine Konsequenz-Spekulation.
+
+**Direkt an die zuständige Person (Pascal) — persönlich, offen, mit Fragen:**
+Lockerer Einstieg mit Emoji («Du bist aktuell noch in den Ferien, und ich hoffe du
+liest es erst am kommenden Montag 😊») · «Kurz zu VES-469 einige Gedanken, die mir
+während dem Designen gekommen sind» · Sachverhalt und Überlegung ausformuliert,
+inklusive Abwägung mehrerer Varianten · echte Rückfragen («Was meinst du?», «Hatte
+sich Markus oder Sigi mal dagegen entschieden?») · Selbst-Einordnung erlaubt («bin
+nicht mehr sicher, ob…»).
+
+**Merke:** Der Detailgrad richtet sich nach dem Empfänger, nicht nach dem Inhalt.
+Dieselbe Sache wird im breiten Kanal zu drei Zeilen und gegenüber der zuständigen
+Person zu einer ausformulierten Überlegung.
