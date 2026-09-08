@@ -10,6 +10,8 @@ audience=personal, scope=universal. Selina's cross-project personal memory; reac
 - [work-style/chat-formatting.md](_topics/work-style/chat-formatting.md) — Aufzählungen im Chat immer als echte Listen (ein Punkt pro Zeile), nie ①–③ im Fliesstext oder mit «·» verbunden. **Gilt für jede Antwort mit Findings/Optionen.**
 - [work-style/vorschlaege-im-story-scope.md](_topics/work-style/vorschlaege-im-story-scope.md) — Design-/UI-Vorschläge bleiben im Scope der Story und respektieren die Semantik des Elements (Gerät-Spalte ≠ Typ-Spalte). **Load vor jedem Vorschlag zu einer bestehenden Story oder einem bestehenden UI-Element.**
 - [work-style/laufendes-merken.md](_topics/work-style/laufendes-merken.md) — Erkenntnisse laufend während der Session persistieren, nicht gesammelt beim Close. **Gilt ab jedem getroffenen Entscheid.**
+- [work-style/figma-variablennamen-statt-hex.md](_topics/work-style/figma-variablennamen-statt-hex.md) — Farben in Figma-Befunden immer mit Variablennamen nennen, Hex nur als Zusatz oder bei ungebundenen Farben. **Gilt für jede Farbaussage zu einem Figma-File.**
+- [work-style/fertig-heisst-alle-farben-auf-zweckrolle.md](_topics/work-style/fertig-heisst-alle-farben-auf-zweckrolle.md) — «Fertig verdrahtet» erst, wenn jede Farbbindung jeder Variante an einer Zweckrolle hängt; wertgleiche Shade-Bindungen sind offene Arbeit, nicht «nur Hygiene». **Gilt vor jeder Fertigmeldung zu einer Komponente.**
 - [work-style/session-close-reporting.md](_topics/work-style/session-close-reporting.md) — Session-Close-Antwort: «Gemerkt» als Liste + Stundenerfassung im Format `Stichwort: Beschreibung in einem Satz` (DE). **Load bei jedem Session-Close.**
 
 ## Scope sub-tree
