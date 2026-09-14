@@ -12,6 +12,7 @@ audience=personal, scope=universal. Selina's cross-project personal memory; reac
 - [work-style/laufendes-merken.md](_topics/work-style/laufendes-merken.md) — Erkenntnisse laufend während der Session persistieren, nicht gesammelt beim Close. **Gilt ab jedem getroffenen Entscheid.**
 - [work-style/figma-variablennamen-statt-hex.md](_topics/work-style/figma-variablennamen-statt-hex.md) — Farben in Figma-Befunden immer mit Variablennamen nennen, Hex nur als Zusatz oder bei ungebundenen Farben. **Gilt für jede Farbaussage zu einem Figma-File.**
 - [work-style/fertig-heisst-alle-farben-auf-zweckrolle.md](_topics/work-style/fertig-heisst-alle-farben-auf-zweckrolle.md) — «Fertig verdrahtet» erst, wenn jede Farbbindung jeder Variante an einer Zweckrolle hängt; wertgleiche Shade-Bindungen sind offene Arbeit, nicht «nur Hygiene». **Gilt vor jeder Fertigmeldung zu einer Komponente.**
+- [work-style/interne-ids-erklaeren.md](_topics/work-style/interne-ids-erklaeren.md) — Zellen-Kürzel (D-11, F-088, OQ-…) sind Selinas Sprache nicht: im Chat den Inhalt nennen, Nummer höchstens in Klammern. **Gilt für jede Antwort, die auf einen früheren Entscheid verweist.**
 - [work-style/session-close-reporting.md](_topics/work-style/session-close-reporting.md) — Session-Close-Antwort: «Gemerkt» als Liste + Stundenerfassung im Format `Stichwort: Beschreibung in einem Satz` (DE). **Load bei jedem Session-Close.**
 
 ## Scope sub-tree
