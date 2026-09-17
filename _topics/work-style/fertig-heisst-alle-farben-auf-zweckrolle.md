@@ -4,7 +4,7 @@ scope: universal
 topic: work-style
 ---
 
-# «Fertig verdrahtet» heisst: jede Farbe hängt an einer sinnvollen Zweckrolle
+# «Fertig verdrahtet» heisst: jede Farbe hängt an einer sinnvollen Zweckrolle — und jede andere Eigenschaft auch
 
 Eine Komponente melde ich erst dann als **fertig verdrahtet**, wenn ich an jeder Variante
 jede Farbbindung geprüft habe und jede an einer Rolle hängt, die ihren Zweck benennt
@@ -18,6 +18,8 @@ Prio-Seite). Stellt sich danach heraus, dass Bindungen fehlen, fühlt sich «ist
 für sie und für die Empfänger «nach nicht ganz wahr» an. Korrektur 8.9.2026 (Polypoint):
 Checkbox war als fertig gemeldet, die Ringe hingen aber noch auf Shade-Rollen — die neue
 Familie `Control` muss dort noch verdrahtet werden.
+
+**Erweiterung 17.9.2026 (Selina, Polypoint):** «Fertig» heisst, dass von einer Komponente **alle** Elemente verdrahtet sind — Text, Füllung, Kontur, Radien, Farben, Abstände, Typografie. Eine reine Farbprüfung reicht für ein ✅ auf einer Prio-Liste nicht. Folge: Häkchen, die nur auf Farbprüfungen beruhten (Fields, Select, Input, Checkbox), gelten erst nach einem Voll-Audit über Strichstärken, Radien, Abstände und Textstile als belastbar. Werte ohne Token (z. B. Abstand 10, −1) im Bericht als «Ausnahme ohne Token» ausweisen, nicht verschweigen.
 
 **How to apply:**
 - Vor jeder Fertigmeldung Knotenprüfung aller Varianten; Bindungen nach drei Klassen
