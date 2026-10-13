@@ -3,7 +3,7 @@
 Beim Session-Abschluss («Session closed» o. ä.) enthält die Abschluss-Antwort **zwei Teile, beide als echte Listen** (nie Fliesstext, vgl. [[chat-formatting]]):
 
 1. **Gemerkt/Persistiert** — was in die ai-collab-Zellen geschrieben/aktualisiert wurde, als Liste (ein Punkt pro Eintrag).
-2. **Stundenerfassung** — die erledigte Arbeit des Tages, damit Selina sie direkt in ihre Stundenerfassung übernehmen kann. **Format je Zeile: `Stichwort: Beschreibung in einem Satz`** — das Stichwort ist der Bezugspunkt (Jira-Key, Artefakt oder Thema), danach genau ein Satz, was gemacht wurde. Auf Deutsch.
+2. **Stundenerfassung** — die erledigte Arbeit des Tages **aus Selinas Sicht (was SIE gemacht hat, nicht Claude; 13.10.2026)**, damit Selina sie direkt in ihre Stundenerfassung übernehmen kann. **Format je Zeile: `Stichwort: Beschreibung in einem Satz`** — das Stichwort ist der Bezugspunkt (Jira-Key, Artefakt oder Thema), danach genau ein Satz, was gemacht wurde. Auf Deutsch.
    **KURZ HALTEN (Selina 2026-08-25): nach Thema zusammenfassen, nicht eine Zeile pro Tätigkeit — Ziel sind rund fünf Zeilen, auch an einem langen Tag.** Mehrere Arbeiten am gleichen Thema gehören in eine Zeile. Der erste Entwurf am 25.8. hatte zehn Zeilen und war zu lang.
 
 Beispiel:
@@ -17,3 +17,5 @@ Backlog: Lücke bei der Ausbleiben-Erkennung des Test-Alarms identifiziert und m
 **Why:** Selina rapportiert ihre Arbeitstage; die Zusammenfassung spart ihr das Rekonstruieren. Sie soll übernehmbar sein, nicht vollständig — eine lange Liste macht wieder Arbeit statt sie zu sparen. Der Absatz-Stil beim Gemerkten war schwer scanbar. Das `Stichwort: Satz`-Format (2026-08-24 präzisiert) lässt sich zeilenweise in die Erfassung übernehmen.
 
 **How to apply:** Gilt bei jedem Session-Close zusätzlich zum session-close-protocol (Distillation in ai-collab-Zellen bleibt unverändert); die beiden Listen kommen in die Chat-Abschlussantwort. Das laufende Persistieren während der Session regelt [[laufendes-merken]] — beim Close ist idealerweise nur noch Restliches nachzutragen.
+
+**AUS SELINAS SICHT FORMULIEREN (Selina 2026-10-13):** Die Stundenerfassung beschreibt, was **Selina** gemacht hat, nicht was Claude gemacht hat. Claude-Tätigkeiten (Variablen-Exporte prüfen, Kommentare per API abrufen, Audits laufen lassen) nicht als ihre Arbeit aufführen, sondern ihr Ergebnis/ihre Handlung nennen: z. B. «Scrollbar umgebaut (lg/sm, Orientation), Table-Master korrigiert, Doku eingesetzt» statt «Umbau geprüft». Aktive Verben für ihre Arbeit (umgebaut, korrigiert, entschieden, recherchiert, kommuniziert), ausführlicher statt knapp. 13.10. übernahm sie nur drei Zeilen (Scrollbar, Buttons, Snackbar), «Variablen-Exporte geprüft» war meine Arbeit, nicht ihre.
