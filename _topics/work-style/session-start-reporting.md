@@ -25,3 +25,11 @@ Jeder Rückblick-Punkt, der auf etwas verweist («die Frage», «der Thread», �
 **Why:** Selina, 2026-10-08: «Welche Frage meintest du? … bitte nenne mir einige Stichworte, damit ich schneller im Durchgehen vom Rückblick bin.» Ein Verweis ohne Inhalt zwingt sie, im Memory nachzuschlagen — der Rückblick soll genau das ersparen.
 
 **How to apply:** Gilt für Start- und Close-Antworten ([[session-close-reporting]]) und überall, wo auf früher Besprochenes verwiesen wird. Lieber ein paar Wörter länger als ein Verweis, der nachgeschlagen werden muss.
+
+## «Nächste Schritte» erst nach Prüfung des echten Stands (Selina, 2026-10-22)
+
+Die Liste «Nächste Schritte» nicht 1:1 aus dem Close-Eintrag abschreiben. Selina arbeitet zwischen den Sessions in Figma weiter (Prio-Seite, Komponenten, Variablen). Vor dem Auflisten den aktuellen Stand prüfen (REST-Abruf der betroffenen Komponente, neuster Variablen-Export, Prio-Seite) und nur aufführen, was **effektiv noch offen** ist. Was nicht geprüft werden konnte, als «laut Close offen, nicht geprüft» kennzeichnen.
+
+**Why:** Selina, 22.10.2026: «Die anderen Schritte hatte ich teilweise bereits erledigt. Ev. gerne vor dem Aufführen ‹Nächste Schritte› prüfen, was effektiv noch offen ist.» Der Rückblick listete erledigte Snackbar-Punkte und die Prio-Seite als offen auf.
+
+**How to apply:** Gilt für jede Startantwort. Der Rückblick («Letztes Mal») darf aus dem Close kommen, die «Nächsten Schritte» brauchen einen Abgleich mit dem Ist-Stand.
