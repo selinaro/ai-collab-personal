@@ -99,3 +99,53 @@ nicht mehr sicher, ob…»).
 **Merke:** Der Detailgrad richtet sich nach dem Empfänger, nicht nach dem Inhalt.
 Dieselbe Sache wird im breiten Kanal zu drei Zeilen und gegenüber der zuständigen
 Person zu einer ausformulierten Überlegung.
+
+## Antwort auf Kommentare: erst Fragen auflisten, dann Entwurf (2026-10-27)
+
+Wenn Selina auf einen Kommentar oder eine Nachricht antworten muss (Figma, Webex,
+Jira), liefert Claude **von sich aus einen Antwortentwurf**. Der Aufbau im Chat:
+
+1. **Die Fragen bzw. Punkte im Kommentar** als Liste, sinngemäss oder kurz zitiert,
+   inklusive der impliziten Aussagen, auf die eine Reaktion erwartet wird.
+2. **Danach der Antwortentwurf** als zitierbarer Block, im Stil der jeweiligen
+   Kanal-Vorlage.
+
+**Why:** Selina, 27.10.2026 (Polypoint, Lucas Rating_v2-Kommentar): «Merke dir das
+gerne, dass du mir jeweils einen Antwortentwurf schickst. Und vorher die Fragen im
+Comment aufführst und anschliessend mir deine mögliche Antwort zeigst.» So sieht sie
+auf einen Blick, ob der Entwurf jede Frage abdeckt.
+
+**How to apply:** Gilt für jeden Kommentar oder jede Nachricht an Selina, die eine
+Reaktion erwartet, auch ohne ausdrückliche Bitte. Der Entwurf folgt den Regeln oben
+(«ich», Position statt Abwägung, kurz, gerichtete Fragen).
+
+## Figma-Kommentare: Frage stellen, keine Wenn-dann-Ketten (2026-10-27)
+
+In Figma-Kommentaren eine offene Frage **nur als Frage** stellen. Keine
+Fallunterscheidungen dazu («wenn direkt, dann …; wenn nur übers Dropdown, dann …»).
+Die Schlussfolgerungen gehören in die nächste Runde, wenn die Antwort da ist.
+
+**Why:** Selina, 27.10.2026 (Antwort an Luca, Rating_v2): Sie hat meinen Punkt «Hover &
+Focus» auf «Kann man die Pillen direkt anklicken, oder wählt man nur übers Dropdown?»
+gekürzt. «Die ‹wenn dann, denn dann›-Angaben sind zu viel Erklärung zu etwaigen
+Schlussfolgerungen für eine Frage in Figma.»
+
+**How to apply:** Pro Punkt Befund + kurze Begründung, oder eine Frage, aber nicht
+beides plus Szenarien. Hilfe darf angeboten werden, als Angebot und nicht als
+Übernahme («Kann dich da auch gerne unterstützen, wenn bei dir die Zeit fehlt»).
+Tonvorlage: «Hello <Name>! Hab's mir angeschaut und folgende Anmerkungen:», danach
+Punkte mit Fettlabel und am Schluss ein eigener Block «Frage:».
+
+Ergänzung 27.10.2026 (Selinas gesendete Antwort an Luca zum Autocomplete): Sie setzt nach
+den Punkten einen eigenen Block **«Wert:»** (Nutzen der Lösung, z. B. «höhere
+Konsistenz»), belegt mit einer kurzen Quelle («Hab noch bei Material nachgeprüft: …»)
+und schliesst mit **«Passt das so?»**. Die Bestätigung des Einwands steht knapp am Anfang
+(«Ja, das graue ‹Men› im Mint ist wirklich ein Bruch.»), ohne Dank-Floskel davor.
+
+## Begriffe wie in Figma: «Inputs», nicht «Felder» (2026-10-27)
+
+In Nachrichten und Kommentaren die Komponenten so nennen wie in Figma: **Inputs** (Input-singleline, Select-/Autocomplete-Input), nicht «Felder»/«Feld». «Field-*» sind in Figma eigene Building Blocks → «Feld» erzeugt Missverständnisse. Selina hatte das schon einmal gesagt (wiederholt 27.10.) → in jedem Entwurf vor dem Senden prüfen.
+
+## Fundorte immer mit Seite + Komponenten-Set nennen (2026-10-27)
+
+Bei jedem Figma-Befund **Pagename + exaktes Komponenten-Set (+ Variante/Ebene)** nennen, z. B. «Seite ✏️ | Input › Set «Text area» › Variante State=Default, Status=filled › Ebene Field-multiline». Selina sucht sonst über das Suchfeld und landet bei der falschen Instanz. Gilt generell, nicht nur für Nachrichten.
