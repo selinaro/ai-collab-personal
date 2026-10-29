@@ -18,3 +18,12 @@ Selina, 20.10.2026, drei Vorfälle am selben Tag (PEP-Design-System):
 - Quellen (Material, Storybook, WCAG) **vor** der Empfehlung nachsehen, alle Varianten messen und die Quelle nennen. Unsicherheit offen sagen.
 
 Siehe auch [[erst-kommunizieren-dann-umbauen]], [[erst-durchdenken-dann-fragen]].
+
+## Nachtrag 29.10.2026 — Umbau-Anleitung vor Prüfung der Grenzen
+
+- Paginator/Time Picker: «Instance swap auf large, Breite Fixed 119/122» empfohlen, ohne die **Mindestbreite 230 px** an `Field-large` und ohne die Umsetzung im Storybook zu prüfen. Selina merkte beides selbst («Die Fields haben eine Mindestbreite von 230px»).
+- Danach «der Paginator hat kein Select» behauptet. Richtig war: kein Select **aus der Bibliothek**, sondern ein im Paginator gebautes. Selina: «Ich sehe es in Storybook.»
+
+**How to apply (Ergänzung):**
+- Vor jeder Umbau-Anleitung die Grenzen der beteiligten Komponenten lesen (min/max width, Sizing Hug/Fill/Fixed) und die Umsetzung im Storybook messen, nicht erst danach.
+- Befunde so eng formulieren, wie sie belegt sind: «nicht die Bibliotheks-Komponente X» statt «kein X».
