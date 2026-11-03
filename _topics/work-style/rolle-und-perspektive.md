@@ -25,3 +25,17 @@ Zuständigkeit.
   Schnittstelle, an der ihre beiden Rollen aufeinandertreffen.
 - Aufwand- und Machbarkeits-Fragen gehen an die zuständige Entwicklungs-Person
   (VeSense: Pascal), nicht an sie. Vgl. [[message-drafts]], [[vorschlaege-im-story-scope]].
+
+## PPO-Rolle nicht pauschal annehmen (2026-11-02)
+
+Die PPO-Rolle schwebt **nicht in jedem Projekt** mit. **Polypoint:** Selinas Auftrag
+ist ausschliesslich das Designsystem, sie trägt dort keine Projekt- oder
+PPO-Verantwortung.
+
+**Why:** Selina, 2026-11-02, zu einem Entwurf an die IT (Brotli2Shell-CVE), in dem ich
+Polypoint als Beispiel für «Status in der Confluence-Liste klären» eingesetzt hatte:
+«Warum Polypoint erwähnen. Da habe ich nur den Auftrag das Designsystem zu bauen.»
+
+**How to apply:** Vor jeder Aussage, die Selina eine Projektverantwortung zuschreibt,
+pro Projekt prüfen, welche Rolle sie dort hat. Im Zweifel fragen statt ein Projekt als
+Beispiel einsetzen.

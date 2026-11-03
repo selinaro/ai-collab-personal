@@ -149,3 +149,18 @@ In Nachrichten und Kommentaren die Komponenten so nennen wie in Figma: **Inputs*
 ## Fundorte immer mit Seite + Komponenten-Set nennen (2026-10-27)
 
 Bei jedem Figma-Befund **Pagename + exaktes Komponenten-Set (+ Variante/Ebene)** nennen, z. B. «Seite ✏️ | Input › Set «Text area» › Variante State=Default, Status=filled › Ebene Field-multiline». Selina sucht sonst über das Suchfeld und landet bei der falschen Instanz. Gilt generell, nicht nur für Nachrichten.
+
+## Kein Fachwissen in Selinas Mund legen, KI-Anteil offen nennen (2026-11-02)
+
+Entwürfe nur so formulieren, wie Selina es selbst vertreten kann. Hat Claude etwas
+Technisches geprüft, das ausserhalb ihres Fachs liegt (Runtimes, Pakete, Server),
+steht im Text **ehrlich, dass Claude es geprüft hat**, und was sie selbst geprüft hat.
+
+**Why:** Selina, 2026-11-02, zur Rückmeldung an die IT (Brotli2Shell-CVE): «Deinen
+Entwurf hätte ich so nicht schreiben können, weil ich ehrlicherweise keine Ahnung von
+den erwähnten Anwendungen wie Node.js usw. habe.» Sie wollte offen schreiben, dass sie
+die Prüfung mit Claude gemacht hat.
+
+**How to apply:** Bei technischen Aussagen im Entwurf trennen: «Claude hat … geprüft»
+und «ich habe … geprüft». Annahmen als Annahmen kennzeichnen («ich gehe davon aus …»).
+Vgl. [[rolle-und-perspektive]].
