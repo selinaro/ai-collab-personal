@@ -29,3 +29,7 @@ Siehe auch [[erst-kommunizieren-dann-umbauen]], [[erst-durchdenken-dann-fragen]]
 - Befunde so eng formulieren, wie sie belegt sind: «nicht die Bibliotheks-Komponente X» statt «kein X».
 
 - **Descriptions nie aus dem Namen raten (5.11.2026, PEP):** Vor einem Description-Entwurf prüfen, ob die Variable überhaupt gebunden ist bzw. die Komponente existiert (Fall: `Radius Component/Card|Carousel|Content-Area-*` mit 0 Bindungen, Komponenten gibt es im DS nicht). Ungebundene → als Befund melden, nicht beschreiben.
+
+## «Wertgleich» erst nach Auflösung in allen Modi (Selina, 9.11.2026)
+
+Bevor ich eine Umbindung «wertgleich» oder «ändert sichtbar nichts» nenne, löse ich **jedes einzelne Paar** bis zum Endwert auf — in **Light und Dark**. Vorfall 9.11. (Checkbox): «alle Paare wertgleich» behauptet, Error wäre aber von #D44045 auf #803033 gekippt; zwei weitere Paare änderten sich nur in Dark. Selina hat es gesehen, nicht ich. Ungeprüfte Paare nie unter eine Sammelaussage fassen.
