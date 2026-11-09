@@ -27,3 +27,5 @@ Siehe auch [[erst-kommunizieren-dann-umbauen]], [[erst-durchdenken-dann-fragen]]
 **How to apply (Ergänzung):**
 - Vor jeder Umbau-Anleitung die Grenzen der beteiligten Komponenten lesen (min/max width, Sizing Hug/Fill/Fixed) und die Umsetzung im Storybook messen, nicht erst danach.
 - Befunde so eng formulieren, wie sie belegt sind: «nicht die Bibliotheks-Komponente X» statt «kein X».
+
+- **Descriptions nie aus dem Namen raten (5.11.2026, PEP):** Vor einem Description-Entwurf prüfen, ob die Variable überhaupt gebunden ist bzw. die Komponente existiert (Fall: `Radius Component/Card|Carousel|Content-Area-*` mit 0 Bindungen, Komponenten gibt es im DS nicht). Ungebundene → als Befund melden, nicht beschreiben.

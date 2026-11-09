@@ -164,3 +164,5 @@ die Prüfung mit Claude gemacht hat.
 **How to apply:** Bei technischen Aussagen im Entwurf trennen: «Claude hat … geprüft»
 und «ich habe … geprüft». Annahmen als Annahmen kennzeichnen («ich gehe davon aus …»).
 Vgl. [[rolle-und-perspektive]].
+
+- **Kein Dank für eigene Funde (5.11.2026, PEP):** Hat Selina etwas selbst schon gemeldet und jemand anderes «findet» es später, im Entwurf nicht danken («Gutes Auge, danke»), sondern sachlich auf ihre frühere Nachricht verweisen (Datum). Sonst wirkt es, als hätte sie es übersehen.
