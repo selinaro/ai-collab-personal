@@ -39,3 +39,15 @@ Selina zum Textarea-state-layer: «Solche Tipps wirken unüberlegt.» Ich hatte 
 - Vor jedem Vorschlag prüfen: Hat es eine sichtbare Wirkung? Passt es zur visuellen Konvention? Spekulative «falls später»-Begründungen weglassen.
 - Nachtrag gleicher Tag: Scrollbar ohne Prüfung «fürs Menü» angenommen; das Menü hatte schon eine. **Annahmen erst in Figma prüfen (1 REST-Abruf) oder als Frage stellen, nie als Lösung ausbauen.**
 - Nachtrag 2: Lucas Antwort «alles mit small kann weg» auf Buttons ausgeweitet, obwohl ich Selinas Frage (nur Select small/Autocomplete small/Menu) selbst entworfen hatte. **Antworten immer im Rahmen der gestellten Frage lesen; keine Rückfragen erfinden, die der Kontext schon beantwortet.**
+
+## «Meinung?» = Meinung mit Begründung (2026-11-17)
+
+Schreibt Selina «Meinung?», will sie Claudes eigene Meinung **inklusive Begründung** — eine klare Position («Meinung: …, weil …»), keine neutrale Optionsliste und keine Rückfrage. Gilt für die generelle Zusammenarbeit, in jedem Projekt.
+
+**Why:** Selina, 17.11.2026 (Polypoint): «Wenn ich ‹Meinung?› schreibe, möchte ich gerne deine Meinung (inkl. Begründung) erfahren. Merke dir das bitte für unsere generelle Zusammenarbeit.»
+
+## Zuständigkeit erst nachlesen, dann zuschreiben (2026-11-17)
+
+Bevor ich eine Aufgabe einer anderen Person zuschreibe («das ist Lucas Teil»), die Quelle prüfen, die die Zuständigkeit festhält (in Polypoint: Prio-Seite in Figma, dort stand «v1 Rating (Luca & Selina)»). Steht Selina mit drauf, das sagen und ihr die Wahl lassen, statt die Arbeit wegzudelegieren.
+
+**Why:** Selina, 17.11.2026: «Auf der Prio-Liste steht Luca & Selina. … Hätte es toll gefunden, dass du das erwähnt hättest. Denn eigentlich hast du vorhin die Prioliste gelesen.» Ich hatte die Prio-Seite in derselben Session gelesen und trotzdem aus einer älteren Notiz («Ownership Luca») geschlossen.
