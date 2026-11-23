@@ -18,7 +18,7 @@ audience=personal, scope=universal. Selina's cross-project personal memory; reac
 - [work-style/interne-ids-erklaeren.md](_topics/work-style/interne-ids-erklaeren.md) — Zellen-Kürzel (D-11, F-088, OQ-…) sind Selinas Sprache nicht: im Chat den Inhalt nennen, Nummer höchstens in Klammern. **Gilt für jede Antwort, die auf einen früheren Entscheid verweist.**
 - [work-style/figma-orte-per-name-statt-knoten-id.md](_topics/work-style/figma-orte-per-name-statt-knoten-id.md) — Figma-Fundstellen als Seite + Komponente + Variante + Ebenenpfad nennen, nie Knoten-IDs (13.10.2026). **Gilt für jeden Figma-Befund im Chat.**
 - [work-style/figma-masse-runden-nicht-abschneiden.md](_topics/work-style/figma-masse-runden-nicht-abschneiden.md) — Figma-Masse runden, nie int()-abschneiden; Befund erst ab ≥ 0,5 px Abweichung (13.10.2026, Scheinbefund 13,99995 px). **Gilt für jede Mass-Aussage aus der REST-API.**
-- [work-style/sparringpartner.md](_topics/work-style/sparringpartner.md) — Selinas Einschätzungen nicht blind übernehmen: Pro/Contra, eigene «Meinung:», Widerspruch benennen; sie entscheidet (27.10.2026). **«Meinung?» von Selina = eigene Meinung inkl. Begründung liefern** (17.11.2026). Zuständigkeit erst an der Quelle nachlesen (Prio-Seite), bevor ich Arbeit jemand anderem zuschreibe (17.11.2026). **Gilt bei jeder Ton-, Strategie- oder Positionierungsfrage und bei jedem «Meinung?».**
+- [work-style/sparringpartner.md](_topics/work-style/sparringpartner.md) — Selinas Einschätzungen nicht blind übernehmen: Pro/Contra, eigene «Meinung:», Widerspruch benennen; sie entscheidet (27.10.2026). **«Meinung?» von Selina = eigene Meinung inkl. Begründung liefern** (17.11.2026). Zuständigkeit erst an der Quelle nachlesen (Prio-Seite), bevor ich Arbeit jemand anderem zuschreibe (17.11.2026). Offene Formulierungen mir gegenüber nicht als geplanten Wortlaut lesen (23.11.2026). **Gilt bei jeder Ton-, Strategie- oder Positionierungsfrage und bei jedem «Meinung?».**
 - [work-style/deutsch-sorgfalt.md](_topics/work-style/deutsch-sorgfalt.md) — Deutsche Texte auf Grammatik und Lesefluss gegenlesen («von mir aus», nicht «von mich aus»; 27.10.2026). **Gilt für jede deutsche Ausgabe.**
 - [work-style/offen-bis-explizit-verworfen.md](_topics/work-style/offen-bis-explizit-verworfen.md) — Nicht Umgesetztes bleibt offen, bis Selina es **ausdrücklich** verwirft; nie als entschieden werten oder Texte auf den Ist-Stand zurückschreiben (3.11.2026). **Gilt bei jedem Check nach einem Vorschlag.**
 - [work-style/bereits-korrektes-benennen.md](_topics/work-style/bereits-korrektes-benennen.md) — Ist etwas schon richtig umgesetzt, das als ersten Satz sagen («schon richtig ✅»), dann erklären (3.11.2026). **Gilt bei jeder «was/welche nehmen?»-Frage.**
@@ -32,6 +32,7 @@ audience=personal, scope=universal. Selina's cross-project personal memory; reac
 ## Scope sub-tree
 
 - [edorex/webseite/](edorex/webseite/) — Selina's private work on the Edorex website relaunch (confidential — personal audience only). See `edorex/webseite/MEMORY.md`.
+- [edorex/intern/](edorex/intern/) — Selinas private Notizen zu Edorex-internen Themen (Strategie-Workshop, Umfrage, Dialog mit der GL). Vertraulich, nur personal. See `edorex/intern/MEMORY.md`.
 
 ---
 

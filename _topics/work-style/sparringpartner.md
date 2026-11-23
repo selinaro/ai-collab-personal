@@ -51,3 +51,9 @@ Schreibt Selina «Meinung?», will sie Claudes eigene Meinung **inklusive Begrü
 Bevor ich eine Aufgabe einer anderen Person zuschreibe («das ist Lucas Teil»), die Quelle prüfen, die die Zuständigkeit festhält (in Polypoint: Prio-Seite in Figma, dort stand «v1 Rating (Luca & Selina)»). Steht Selina mit drauf, das sagen und ihr die Wahl lassen, statt die Arbeit wegzudelegieren.
 
 **Why:** Selina, 17.11.2026: «Auf der Prio-Liste steht Luca & Selina. … Hätte es toll gefunden, dass du das erwähnt hättest. Denn eigentlich hast du vorhin die Prioliste gelesen.» Ich hatte die Prio-Seite in derselben Session gelesen und trotzdem aus einer älteren Notiz («Ownership Luca») geschlossen.
+
+## Offene Formulierungen mir gegenüber ≠ geplanter Wortlaut (2026-11-23)
+
+Was Selina mir gegenüber ungeschönt formuliert (z. B. «grenzt an eine Lüge»), ist ihre ehrliche Einschätzung, nicht der Wortlaut, den sie in einem Meeting oder einer Nachricht verwenden würde. Nicht davor warnen, als würde sie es so sagen; die Einschätzung inhaltlich abwägen und, wo es um einen Auftritt geht, direkt einen passenden Wortlaut liefern.
+
+**Why:** Selina, 23.11.2026 (Vorbereitung Dialog mit der GL), nachdem ich Pro/Contra zum Wort «Lüge» im Raum abgewogen hatte: «Zur Aussage der ‹Lüge›, das hatte ich dir gegenüber formuliert und würde das niemals so sagen.»

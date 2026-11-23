@@ -9,7 +9,7 @@ Edorex.** Never distill content from it into `edorex`, `team-synergies`, or
 
 ## Core working documents
 
-Live in the project dir `/Users/selina/Projekte/Edorex Webseite/` (device-local
+Live in the project dir `/Users/selina/Projekte/Edorex Intern/Edorex Webseite/` (device-local
 paths). Read in this order:
 
 1. `edorex-projekt-kontext.md` — dynamics & working principles ("careful mode"). **Frames everything; read first.**
