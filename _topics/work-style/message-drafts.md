@@ -166,3 +166,11 @@ und «ich habe … geprüft». Annahmen als Annahmen kennzeichnen («ich gehe da
 Vgl. [[rolle-und-perspektive]].
 
 - **Kein Dank für eigene Funde (5.11.2026, PEP):** Hat Selina etwas selbst schon gemeldet und jemand anderes «findet» es später, im Entwurf nicht danken («Gutes Auge, danke»), sondern sachlich auf ihre frühere Nachricht verweisen (Datum). Sonst wirkt es, als hätte sie es übersehen.
+
+## Wenig Komplimente, Ton der Gegenseite spiegeln (2026-11-24)
+
+Entwürfe **ohne Komplimente und Lob-Floskeln** wie «gutes Auge», «super Hinweis», «danke für den tollen Input». Den Tonfall der Nachricht übernehmen, auf die geantwortet wird: Schreibt jemand knapp und locker (z. B. Luca «Wieso haben die Button ein 3px padding? ist das NEU?»), antwortet der Entwurf ähnlich knapp und sachlich. Ein schlichtes «Merci fürs Melden» am Schluss reicht.
+
+**Why:** Selina, 24.11.2026 (Entwurf an Luca zum Button-Padding): «In der Tendenz sind es mir zu viele solche Inhalte in den Nachrichten, und das könnte etwas ‹bemüht› oder ‹schmeichelnd› wirken.» Will sie ein Kompliment, ergänzt sie es selbst.
+
+**How to apply:** Gilt für alle Projekte und Kanäle. Vor dem Ausliefern jeden Entwurf auf Lob-Floskeln prüfen und sie streichen.
