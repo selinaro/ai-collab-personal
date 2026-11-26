@@ -16,3 +16,11 @@ audience=personal, scope=universal · 2026-11-17 (Selina, PEP-Session)
 - **Sollwert ist immer eine konkrete Variable mit Wert**, z. B. «→ `Radius Component/Menu` (4)», nie nur «eine Radius-Variable». Gilt auch, wenn die Antwort «keine Variable nötig» ist.
 - **Vor dem Melden am aktuellen Stand nachmessen** (Zeitpunkt der Abfrage nennen, wenn Selina parallel arbeitet) und Scheinbefunde aussortieren: Abstand bei «Space between» oder mit nur einem Kind wirkt nicht; Strichstärke auf einer Instanz (z. B. Slot) gehört zur Hauptkomponente; Bindung auf einer Ellipse-Ecke wirkt nicht.
 - Zahlen nicht hochrechnen: «alle 112 Varianten» nur, wenn alle 112 gezählt sind.
+
+## Ergänzung 26.11.2026 nachmittags (Selina: «gerne merken»)
+
+- **Werte ohne Wirkung aktiv melden:** Bei jedem Abstand, Radius oder jeder Strichstärke prüfen, ob der Wert überhaupt wirkt. Typisch: Abstand zwischen Elementen, wenn nur ein Kind sichtbar ist (Input-password: Gap 10 → 0; Nav-desktop-sub-items ohne Icon: Gap 8 → 0); Radius auf einem Frame ohne Fläche und Kontur; Radius auf einer Ellipse. Melden als «wirkt nicht → auf 0 bzw. Bindung entfernen», nicht als «ungebunden → Variable X».
+- **Pfad zur Stelle, wo man es bearbeitet:** Liegt die Ebene in einer verschachtelten Instanz, den Pfad in der **Hauptkomponente** nennen (Set › Variante › Ebene), nicht den Weg über die Instanz oder den Slot. Beispiel: die Pillen im Set `Wichtigkeit`, nicht `Menu` › `Type=Custom Select` › Slot › ….
+- **Pro Variante prüfen, nicht hochrechnen:** Varianten mit und ohne Icon (o. Ä.) getrennt auswerten und beide Fälle nennen.
+- **Komponenten-Set-Rahmen** (gestrichelter violetter Rahmen um ein Set) und Seiten-Hilfsmaterial (Documentation, Testing) sind keine Befunde.
+- **Ausgeblendete Ebenen sind keine Befunde (26.11.2026):** Texte und Ebenen nur melden, wenn sie selbst und alle Eltern sichtbar sind (`visible`). Lehre: Header-Text und «Included Atoms» auf der Seite Dividers gemeldet, obwohl ausgeblendet.
