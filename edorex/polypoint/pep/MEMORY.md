@@ -4,10 +4,12 @@ audience=personal, scope=edorex/polypoint/pep. Selinas persönliche Notizen zum 
 
 ## Topics
 
-- **Figma-Schreibzugriff PDX (24.11.2026):** Selina gibt Claude im PDX-File (Polypoint-Org) KEINE Schreibrechte. Connector läuft über ihr edorex-Konto → im PDX nur lesen (REST-Token, inkl. Versionsverlauf). Belegt: Im Versionsverlauf erscheinen Claude-Änderungen nur als «Selina». **VeSense:** Selina gibt Claude dort nächste Woche Schreibzugriff (läuft über die edorex-Organisation) → beim nächsten VeSense-Start daran denken.
-
-- [tageslisten/](tageslisten/) — Nächste Schritte pro Arbeitstag als Checkliste (`JJJJ-MM-TT.md`), für Obsidian. Jüngste Datei = aktueller Stand. Regel: [[tagesliste-als-md]].
+- [arbeitsweise-pep.md](_topics/arbeitsweise-pep.md) — **Laden bei jedem PEP-Session-Start:** Priorität, Benennung entscheidet Selina, Wert sichtbar machen, Doku nur im Chat.
+- [webex-stil.md](_topics/webex-stil.md) — **Laden vor jedem Webex-Entwurf:** Ton im DS-Channel, Vorlage «Info + Optionen», Fertig-Meldung.
+- [mandat.md](_topics/mandat.md) — Mandat, Budget, Verlängerung; dazu Mandats-Papier und Ausblick-Schätzung. Vertraulich.
+- **Figma-Schreibzugriff (24.11.2026):** im PDX-File (Polypoint-Org) nur lesen, Selina gibt keine Schreibrechte. VeSense: Schreibzugriff folgt (edorex-Org).
+- [tageslisten/](tageslisten/) — Nächste Schritte pro Arbeitstag (`JJJJ-MM-TT.md`, Obsidian); jüngste Datei = aktueller Stand.
 
 ---
 
-Scaffolded 2026-11-24 (erste Tagesliste).
+Scaffolded 2026-11-24 (erste Tagesliste). Persönliche Regeln aus dem PEP-Projektindex übernommen 2026-11-26.
